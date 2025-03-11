@@ -62,3 +62,4 @@ spec:
         value: "-v --with-spec --spec-color"
       runAfter:
         - clone
+    
